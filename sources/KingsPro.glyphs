@@ -58399,16 +58399,7 @@ width = 242;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "KingsPro Regular";
-},
-{
-name = postscriptFontName;
-value = "KingsPro-Regular";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "C36B7B90-196F-45C3-8412-B02CF16DA361" = 1;
 };

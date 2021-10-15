@@ -1,8 +1,6 @@
-# Birthstone Bounce
+# Kings
 
-Birthstone Bounce is the sibling family of Birthstone that adds more luster and playfulness to it. Available in Regular and Medium weights, this version includes caps and ending swashed forms.
-
-All the styles are uniquely compatible to one another, but distinctly different. See how easily the fonts may change according to the needs of the look.
+Imagine a damsel in distress. The only hope is for the Kings Knights to rescue her from certain death. Kings Family is based on the three set font family (Kings Honor, Kings Quest and Kings Dominion). Combined to make a pro font, use this blackletter font with enchantment. 
 
 ![Sample Image](Documentation/image1.png)
 

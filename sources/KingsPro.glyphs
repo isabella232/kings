@@ -10,7 +10,9 @@ ll,
 "/O.ss01",
 "/Oacute.ss01/Obreve.ss01/Ocaron.ss01/Ocircumflex.ss01/O.ss01/Ocircumflexacute.ss01/Ocircumflexdotbelow.ss01/Ocircumflexgrave.ss01/Ocircumflexhookabove.ss01/Ocircumflextilde.ss01/Odblgrave.ss01/Odieresis.ss01/Odieresismacron.ss01/Odotaccentmacron.ss01/Odotbelow.ss01/Ograve.ss01/Ohookabove.ss01/Ohorn.ss01/Ohornacute.ss01/Ohorndotbelow.ss01/Ohorngrave.ss01/Ohornhookabove.ss01/Ohorntilde.ss01/Ohungarumlaut.ss01/Oinvertedbreve.ss01/Omacron.ss01/Oogonek.ss01/Oslash.ss01/Oslashacute.ss01/Otilde.ss01/Otildemacron.ss01",
 "/ecircumflexgrave/Scaron.ss01",
-"/Cacute.ss01/Ccaron.ss01/Ccedilla.ss01/Ccircumflex.ss01/Cdotaccent.ss01"
+"/Cacute.ss01/Ccaron.ss01/Ccedilla.ss01/Ccircumflex.ss01/Cdotaccent.ss01",
+"/f_f.ss01",
+"/fl.ss01"
 );
 classes = (
 {
@@ -68038,7 +68040,7 @@ unicode = FB02;
 {
 color = 5;
 glyphname = f_f.ss01;
-lastChange = "2021-10-14 18:42:39 +0000";
+lastChange = "2021-10-20 13:45:22 +0000";
 layers = (
 {
 background = {
@@ -68059,10 +68061,14 @@ name = f.ss01;
 {
 name = f.ss01;
 transform = "{1, 0, 0, 1, 304, 0}";
+},
+{
+name = i;
+transform = "{1, 0, 0, 1, 608, 0}";
 }
 );
 layerId = "C36B7B90-196F-45C3-8412-B02CF16DA361";
-width = 608;
+width = 863;
 }
 );
 leftMetricsKey = f;
@@ -68071,21 +68077,22 @@ rightMetricsKey = f;
 {
 color = 5;
 glyphname = f_f_i.ss01;
-lastChange = "2021-10-20 13:25:30 +0000";
+lastChange = "2021-10-20 13:45:31 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = f.ss01;
+transform = "{1, 0, 0, 1, 166, 0}";
 },
 {
 name = f.ss01;
-transform = "{1, 0, 0, 1, 304, 0}";
+transform = "{1, 0, 0, 1, 470, 0}";
 },
 {
 name = i.ss01;
-transform = "{1, 0, 0, 1, 608, 0}";
+transform = "{1, 0, 0, 1, 774, 0}";
 }
 );
 };
@@ -68112,21 +68119,22 @@ rightMetricsKey = i;
 {
 color = 5;
 glyphname = f_f_l.ss01;
-lastChange = "2021-10-14 18:42:39 +0000";
+lastChange = "2021-10-20 13:45:37 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = f.ss01;
+transform = "{1, 0, 0, 1, 166, 0}";
 },
 {
 name = f.ss01;
-transform = "{1, 0, 0, 1, 304, 0}";
+transform = "{1, 0, 0, 1, 470, 0}";
 },
 {
 name = l.ss01;
-transform = "{1, 0, 0, 1, 608, 0}";
+transform = "{1, 0, 0, 1, 774, 0}";
 }
 );
 };
@@ -68153,17 +68161,18 @@ rightMetricsKey = l;
 {
 color = 5;
 glyphname = fi.ss01;
-lastChange = "2021-10-20 13:25:42 +0000";
+lastChange = "2021-10-20 13:45:43 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = f.ss01;
+transform = "{1, 0, 0, 1, 166, 0}";
 },
 {
 name = i.ss01;
-transform = "{1, 0, 0, 1, 304, 0}";
+transform = "{1, 0, 0, 1, 470, 0}";
 }
 );
 };

@@ -1,8 +1,7 @@
 {
-.appVersion = "1357";
+.appVersion = "1352";
 DisplayStrings = (
-ll,
-"/periodcentered.loclCAT",
+abcdefghijklmnopqrstuvwxyz,
 "/f_f_i.ss01",
 "/fi.ss01",
 "/f_f_l.ss01",
@@ -183,11 +182,11 @@ capHeight = 630;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 950;
 },
 {
 name = typoDescender;
-value = -400;
+value = -450;
 },
 {
 name = typoLineGap;
@@ -195,11 +194,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -400;
+value = -450;
 },
 {
 name = hheaLineGap;
@@ -207,11 +206,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 900;
+value = 1344;
 },
 {
 name = winDescent;
-value = 400;
+value = 508;
 },
 {
 name = strikeoutPosition;
@@ -49231,5 +49230,5 @@ oV = "80";
 };
 };
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 6;
 }
